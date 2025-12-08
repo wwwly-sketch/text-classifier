@@ -1,0 +1,6 @@
+com.classifier
+com.classifier.analyzer
+com.classifier.dictionary
+com.classifier.model
+com.classifier.parser
+com.classifier.report

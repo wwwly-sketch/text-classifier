@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.classifier"},{"l":"com.classifier.analyzer"},{"l":"com.classifier.dictionary"},{"l":"com.classifier.model"},{"l":"com.classifier.parser"},{"l":"com.classifier.report"}];updateSearchResults();
